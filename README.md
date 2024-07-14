@@ -20,5 +20,5 @@ This project is a web scraper for extracting the latest ads from the Divar websi
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/divar-scraper.git
-   cd divar-scraper
+   git clone https://github.com/DevAlishar/scrapper-divar.py
+   cd scrapper-divar.py
